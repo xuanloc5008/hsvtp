@@ -1,0 +1,15 @@
+JWT_SECRET=thisissecretpleasechangeit
+JWT_EXPIRATION=60m
+DB_USERNAME=postgres
+DB_PASSWORD=VipryCOpvMxPMObcfgak
+DB_NAME=hsv_tp
+DB_PORT=5432
+DB_HOST=database-1.cf6e4m60s0pq.ap-southeast-1.rds.amazonaws.com
+TYPE=postgres
+AWS_ACCESS_KEY_ID=MDLDDATNM3D9H2D27Z1N
+AWS_SECRET_ACCESS_KEY=7hYAuaUKk7KdY1CS5i6kqUPnfE6IatBJfKeNjQiq
+S3_BUCKET=hsv-tp
+S3_URL=https://s3.cloudfly.vn
+VIRTUAL_HOST=hsv-tp.hareta.online
+LETSENCRYPT_HOST=hsv-tp.hareta.online
+LETSENCRYPT_EMAIL=leductoan3082004@gmail.com
